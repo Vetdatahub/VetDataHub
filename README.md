@@ -1,7 +1,7 @@
-**Repository Name: VetDataHub**
+**VetDataHub**
 
 **Description:**
-VetDataHub is a collaborative platform dedicated to advancing veterinary medicine through the sharing and exchange of diverse datasets. Our repository brings together veterinary professionals, researchers, and data scientists from around the world to contribute, discover, and utilize valuable datasets for research, diagnosis, and decision-making in animal health.
+VetDataHub is an opensource veterinary datasets repository dedicated to advancing veterinary medicine through the sharing and exchange of diverse datasets. Our repository aims to make opensource veterinary data available to veterinary professionals, researchers, and data scientists from around the world to contribute, discover, and utilize valuable datasets for research, diagnosis, and decision-making in animal health.
 
 **Key Features:**
 - **Diverse Datasets:** Explore a wide range of veterinary datasets, including medical images, clinical records, genomic data, epidemiological data, and more.
@@ -14,9 +14,14 @@ VetDataHub is a collaborative platform dedicated to advancing veterinary medicin
 - Contribute datasets: Share your datasets to enrich our repository and support collaborative research efforts.
 - Provide feedback: Help us improve by providing feedback, reporting issues, or suggesting enhancements.
 - Join the conversation: Participate in discussions, share insights, and collaborate with fellow members of the veterinary data community.
+- If you would like to contribute to this repository, please open an issue or a pull request with the following requirements:
 
-**Join Us:** Start exploring, contributing, and collaborating at VetDataHub and be part of a global initiative to drive innovation and improve animal health worldwide.
-
----
-
-Feel free to customize this description further to align with the specific objectives, features, and guidelines of your repository.
+    - None of the datasets should be copyrighted or have any restrictions on use.
+    - No adult content.
+    - All the datasets should be in the datasets folder and categorized by type.
+    - Datasets should be in an archive format preferably zip or rar. 
+    
+    - Images should not also be edited or have filters applied to them. 
+    - The datasets containing images should be as natural as possible.Rotating a photo is fine but no other edits, in short if the image looks bad or needs editing, it should not be included in the repository.
+    - Datasets cannot be AI generated or computer generated. 
+If these requirements are not met, the pull request may be rejected.
