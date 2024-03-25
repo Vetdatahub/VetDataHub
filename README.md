@@ -1,7 +1,7 @@
 **VetDataHub**
 
 **Description:**
-VetDataHub is an opensource veterinary datasets repository dedicated to advancing veterinary medicine through the sharing and exchange of diverse datasets. Our repository aims to make opensource veterinary data available to veterinary professionals, researchers, and data scientists from around the world to contribute, discover, and utilize valuable datasets for research, diagnosis, and decision-making in animal health.
+VetDataHub is an opensource veterinary datasets repository dedicated to advancing veterinary medicine through the sharing and exchange of diverse datasets. The project aims to make opensource veterinary data available to veterinary professionals, researchers, and data scientists from around the world to contribute, discover, and utilize valuable datasets for research, diagnosis, and decision-making in animal health.
 
 **Key Features:**
 - **Diverse Datasets:** Explore a wide range of veterinary datasets, including medical images, clinical records, genomic data, epidemiological data, and more.
