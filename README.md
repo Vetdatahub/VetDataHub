@@ -11,6 +11,7 @@ VetDataHub is an opensource veterinary datasets repository dedicated to advancin
 - **Documentation and Support:** Benefit from comprehensive documentation, tutorials, and user support to facilitate dataset discovery, understanding, and utilization.
 
 **How to Contribute:**
+- Read [Contribute](contributing.md).
 - Contribute datasets: Share your datasets to enrich our repository and support collaborative research efforts.
 - Provide feedback: Help us improve by providing feedback, reporting issues, or suggesting enhancements.
 - Join the conversation: Participate in discussions, share insights, and collaborate with fellow members of the veterinary data community.
