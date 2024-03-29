@@ -16,8 +16,7 @@ Due to GitHub's file size limitations, please host large datasets (exceeding 100
 
 ### 3. Providing Dataset Links
 
-After hosting your dataset, create a text filewith the name of your dataset within your contribution's directory. In this file, provide the following details:
-
+After hosting your dataset.Within your contribution's directory provide the following details in the Readme.md file:
 - Name of the dataset
 - Brief description of the dataset
 - Link to download the dataset from the external hosting service
