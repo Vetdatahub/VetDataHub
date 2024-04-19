@@ -1,6 +1,5 @@
 # Animal Condition
-The "Animal Condition Classification Dataset" presents a unique and intricate data challenge in the realm of animal health assessment. Featuring a diverse array of animal species, ranging from birds to mammals, this dataset enables the development of predictive models to determine whether an animal's condition is dangerous or not based on five distinct symptoms. The dataset's diversity opens doors to creating a classification system that transcends taxonomic boundaries, making it particularly valuable for people interested in animal welfare and wildlife conservation. However, its manual collection process introduces potential sources of error, including spelling mistakes and variations in symptom representation. This necessitates meticulous data-cleaning efforts.
-
+The "Animal Condition Classification Dataset" presents a unique and intricate data challenge in the realm of animal health assessment. Featuring a diverse array of animal species, ranging from birds to mammals, this dataset enables the development of predictive models to determine whether an animal's condition is dangerous or not based on five distinct symptoms. The dataset's diversity opens doors to creating a classification system that transcends taxonomic boundaries, making it particularly valuable for people interested in animal welfare and wildlife conservation. However, its manual collection process introduces potential sources of error, including spelling mistakes and variations in symptom representation. This necessitates meticulous data-cleaning efforts
 Source : Kaggle
 [Download](https://www.kaggle.com/datasets/willianoliveiragibin/animal-condition/data)
 
@@ -22,7 +21,6 @@ Source: Kaggle
 
 # Animal Bites
 In the United States, animal bites are often reported to law enforcement (such as animal control). The main concern with an animal bite is that the animal may be rabid. This dataset includes information on over 9,000 animal bites which occurred near Louisville, Kentucky from 1985 to 2017 and includes information on whether the animal was quarantined after the bite occurred and whether that animal was rabid.
-
 [Download](https://www.kaggle.com/datasets/rtatman/animal-bites)
 
 # Animal Information Dataset
@@ -76,7 +74,6 @@ Movebank is a free, online database of animal tracking data hosted by the Max Pl
 
 # Animal Classification
 The dataset has been scraped from various websites such as Google, Pexels, Pixabay, Unsplash etc.
-
 This dataset contains 4 animal folders containing 1000 images per animal.
 The animals are:
 
@@ -99,3 +96,68 @@ Predict if an animal's condition is dangerous based on its symptoms.
 Every animal deserves to have a good life.
 [Download](https://www.kaggle.com/datasets/imtkaggleteam/animal-welfare)
 
+# Pathogen Detection | Salmonella Enterica
+Source: Kaggle
+[Download](https://www.kaggle.com/datasets/imtkaggleteam/pathogen-detection-salmonella-enterica)
+
+# Animal Testing in the US in 2016
+USDA Annual Report of Animal Usage by FY2016
+[Download](https://www.kaggle.com/datasets/mmsant/animals-testing-in-the-us-in-2016)
+
+<!-- # Fluorescent Neuronal Cells
+283 high-res images of mice brain slices from a fluorescence microscope
+[Download]() -->
+
+# Collection of 34 Animal Species
+34 Different Animal Dataset for Supervised and Unsupervised Learning
+[Download](https://www.kaggle.com/datasets/muki2003/34-animal-dataset)
+
+
+# Fish Recognition Ground-Truth data
+This fish data is acquired from a live video dataset resulting in 27370 verified fish images. The whole dataset is divided into 23 clusters and each cluster is presented by a representative species, which is based on the synapomorphies characteristic from the extent that the taxon is monophyletic.
+[Download](https://www.kaggle.com/datasets/madhushreesannigrahi/fish-recognition-ground-truth-data)
+
+
+# Fish Head and Tail Detection Dataset
+Welcome to the Fish Head and Tail Detection Dataset, a valuable resource for pioneering research and experimentation in fish head and tail detection, with a specific emphasis on identifying fish heads and tails. This dataset comprises a meticulously curated collection of 200 images, each richly annotated to facilitate advanced exploration.
+[Download](https://www.kaggle.com/datasets/jocelyndumlao/fish-head-and-tail-detection-dataset)
+
+
+# DCASE-2023-TASK-5 Few-shot Bioacoustic Event Detection
+This task focuses on sound event detection in a few-shot learning setting for animal (mammal and bird) vocalisations. Participants will be expected to create a method that can extract information from five exemplar vocalisations (shots) of mammals or birds and detect and classify sounds in field recordings.
+[Download](https://www.kaggle.com/datasets/aguado/dcase-2023-task-5)
+
+
+# Austin Animal Center Data
+Austin Animal Center Live Data: Real-time animal intakes and outcomes
+[Download](https://www.kaggle.com/datasets/thedevastator/austin-animal-center-data)
+
+
+# (2012-2019) Baton Rouge, LA Animal Control Calls
+Geocoded Baton Rouge, Louisiana - Animal Control Calls
+[Download](https://www.kaggle.com/datasets/kerneler/2019-baton-rouge-la-animal-control-calls)
+
+
+# 🐶Pet's Facial Expression Image Dataset😸
+This dataset contains 1000 face images of various pets, such as dogs, cats, rabbits, hamsters, sheep, horses, and birds. The images capture the diversity of expressions these animals can display, such as happiness, sadness, anger etc. You can apply ML techniques to gain insights into pet emotions and personalities, create fun and creative projects with pet face images, and contribute to pet face recognition research and animal welfare
+[Download](https://www.kaggle.com/datasets/anshtanwar/pets-facial-expression-dataset/data)
+
+
+# Adoptions by Breed and Date
+Animals, Breeds, and Outcomes
+This dataset contains information about adopted animals from the Bloomington Animal Shelter. The migration from their former software, AnimalShelterNet, to the newer system Shelter Manager allowed us to preserve as much of this information as possible. It records data on intakedate, intakereason, istransfer, sheltercode, animalname and more. Each field contains unique information such as breed name, color and age of the animal which can be used to gain a better understanding of adoption trends in this area. Additionally it has fields on movement type/date and return/death records can help track changes in animal welfare technology over time.
+[Download](https://www.kaggle.com/datasets/thedevastator/analyzing-adoption-trends-at-the-bloomington-ani)
+
+
+# NNDSS - Rabies, animal to Rubella, congenital
+Explore Open Data from the Centers for Disease Control
+This is a dataset hosted by the Centers for Disease Control and Prevention. The organization has an open data platform found here and they update their information according the amount of data that is brought in. Explore CDC Data using Kaggle and all of the data sources available through the CDC organization page!
+[Download](https://www.kaggle.com/datasets/cdc/nndss-rabies-animal-to-rubella-congenital)
+
+
+# EMPRES Global Animal Disease Surveillance
+Global animal disease outbreaks from the last 2 years
+[Download](https://www.kaggle.com/datasets/tentotheminus9/empres-global-animal-disease-surveillance)
+
+
+# Animal health classification

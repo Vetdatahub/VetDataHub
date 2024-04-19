@@ -46,3 +46,25 @@ It contains about 15K pictures of animals : cats, dogs, elephants, horses & lion
 
 Images have been collected from Google Images.
 [Download](https://www.kaggle.com/datasets/antobenedetti/animals)
+
+
+# Camera Trap Performance for Nocturnal Mammals
+Insights into Flying Squirrel Populations in Urban Environments
+[Download](https://www.kaggle.com/datasets/thedevastator/camera-trap-performance-for-nocturnal-mammals)
+
+# Wildlife Explorer Dataset
+The "Wildlife Explorer Dataset" is a comprehensive collection of animal information sourced from various reputable online resources, carefully curated and compiled for research and analysis purposes. With over 900 files, including images, text documents, and multimedia content, this dataset offers a wealth of knowledge on a wide range of fascinating creatures.
+[Download](https://www.kaggle.com/datasets/dipitvasdev/animals)
+
+
+# GPS Data of Seabirds
+
+File containing the GPS dive data, with lon/lat centred around each colony for anonymity. Dive data is included at the true/false level depending on classification and the maximum dive recorded in a 100 second window is also included.
+gps.zip
+[Download](https://www.kaggle.com/datasets/saurabhshahane/predicting-animal-behavior-using-gps)
+
+
+# Sea Animals Domain Adaptation Dataset
+Many datasets of sea animals for domain adaptation classification
+[Download](https://www.kaggle.com/datasets/gusanagy/sea-animals-domain-adaptation-dataset)
+
