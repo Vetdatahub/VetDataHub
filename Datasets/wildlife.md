@@ -68,3 +68,9 @@ gps.zip
 Many datasets of sea animals for domain adaptation classification
 [Download](https://www.kaggle.com/datasets/gusanagy/sea-animals-domain-adaptation-dataset)
 
+# animal_dataset
+Beginner level dataset for CNN
+Animal Image Dataset is a curated collection of images featuring four fascinating creatures: bears, crows, elephants, and rats. This dataset serves as an ideal starting point for honing your skills in building and training basic Convolutional Neural Network (CNN) models.
+[Download](https://www.kaggle.com/datasets/ikjotsingh221/animal-dataset)
+
+
