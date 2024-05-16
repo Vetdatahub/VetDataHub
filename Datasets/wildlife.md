@@ -74,3 +74,9 @@ Animal Image Dataset is a curated collection of images featuring four fascinatin
 [Download](https://www.kaggle.com/datasets/ikjotsingh221/animal-dataset)
 
 
+# Zoo Animals
+Can you predict an animal based on its attributes?A simple database containing 17 Boolean-valued attributes describing animals. The "type" attribute appears to be the class attribute.
+[Download](https://www.kaggle.com/datasets/ulrikthygepedersen/zoo-animals)
+
+# Animals
+Biological Classification of Animals

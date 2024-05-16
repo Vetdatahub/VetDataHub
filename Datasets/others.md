@@ -104,9 +104,6 @@ Source: Kaggle
 USDA Annual Report of Animal Usage by FY2016
 [Download](https://www.kaggle.com/datasets/mmsant/animals-testing-in-the-us-in-2016)
 
-<!-- # Fluorescent Neuronal Cells
-283 high-res images of mice brain slices from a fluorescence microscope
-[Download]() -->
 
 # Collection of 34 Animal Species
 34 Different Animal Dataset for Supervised and Unsupervised Learning
@@ -161,3 +158,49 @@ Global animal disease outbreaks from the last 2 years
 
 
 # Animal health classification
+
+
+# Animal image for Recognition
+Images of four different types of animals for image classification.
+This dataset comprises images of four distinct types of animals: nilgai, horse, cow, and water buffalos. The primary objective of this dataset is to facilitate the classification of images within these four categories.
+[Download](https://www.kaggle.com/datasets/mdismielhossenabir/animal-image-for-recognition)
+
+
+
+# Animals 
+Biological Classification of Animals
+Biological classification or scientific classification is a method of classification and arrangement of biologists with distinctive organisms. Which classifies the types according to the common physical properties.
+Content
+
+This data frame has more than 1300 biological classification of animals. The delightful thing about this data frame is that, anyone who took any biology class in their life can simply understand, use and benefits from. I would love to see how other people would deal with this data frame, I think it is useful and they will be so creative.
+
+• Animal Name: The animal name.
+• Kingdom: The animal kingdom.
+• Phylum: The animal phylum.
+• Subphylum: The animal subphylum, if it has.
+• Class: The animal class.
+• Subclass: The animal subclass, if it has.
+• Infraclass: The animal infraclass, if it has.
+• Order: The animal order.
+• Superorder: The animal superorder, if it has.
+• Suborder: The animal suborder, if it has.
+• Infraorder: The animal infraorder, if it has.
+• Family: The animal family.
+• Superfamily: The animal superfamily, if it has.
+• Subfamily: The animal subfamily, if it has.
+• Genus: The animal genus, can be empty in rare conditions.
+• Subgenus: The animal subgenus, if it has.
+• Tribe: The animal tribe, if it has.
+• Clade: The animal clade, if it has.
+[Download](https://www.kaggle.com/datasets/hessahalkhattabi/animals)
+
+# Recognize Animals
+Can you train a machine that would tell you the name of animal?
+Image recognition is a vital component in robotics such as driverless vehicles or domestic robots. Image recognition is also important in image search engines such as Google or Bing image search whereby you use rich image content to query for similar stuff. Like in Google photos where the system uses image recognition to categorize your images into things like cats, dogs, people, and so on so that you can quickly search your albums for things like, “give me photos of my cat”, that's awesome.
+[Download](https://www.kaggle.com/datasets/pratik2901/animal-dataset)
+
+
+# Animal Breed - Cats and Dogs
+Animal Breed Classification AI Challenge Dataset
+The dataset belongs to Dockship's Animal Breed Classification AI Challenge.
+The dataset contains images of 37 breeds of cats and dogs from around the world. It contains two directories "TRAIN" and "TEST" with 5890 and 1500 images respectively. The training images are provided in the directory of the specific class itself. The names of the directories are "class labels" to be used for submission. The aim is to classify the "TEST" images into one of the 37 classes.[Download](https://www.kaggle.com/datasets/imsparsh/animal-breed-cats-and-dogs)
